@@ -15,7 +15,7 @@ public class Main {
         String IPv4 = "192.168.64.24";
         double averagePerContract = soldInTons/numOfContracts;
 
-        System.out.println("Průměrné množstvi prodané mrkve na jednu smlouvu "+ averagePerContract + "." );
+        System.out.println("Průměrné množství prodané mrkve na jednu smlouvu "+ averagePerContract + "." );
 
     }
 }
